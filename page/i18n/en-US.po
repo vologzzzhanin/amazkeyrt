@@ -1,0 +1,24 @@
+
+msgid "devices"
+msgstr "Devices"
+
+msgid "noDevices"
+msgstr "No devices, please add it on the phone"
+
+msgid "opening"
+msgstr "Opening..."
+
+msgid "openedSuccess"
+msgstr "Opened!"
+
+msgid "openFailed"
+msgstr "Open failed"
+
+msgid "connectionError"
+msgstr "Connection error"
+
+msgid "loading"
+msgstr "Loading..."
+
+msgid "loadError"
+msgstr "Load error"

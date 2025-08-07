@@ -1,0 +1,62 @@
+{
+  "configVersion": "v3",
+  "app": {
+    "appType": "app",
+    "version": {
+      "code": 1,
+      "name": "0.0.1"
+    },
+    "appId": 29984,
+    "appName": "RT Key App",
+    "icon": "icon.png",
+    "vender": "vzzzn",
+    "description": "Application for RT Key"
+  },
+  "runtime": {
+    "apiVersion": {
+      "compatible": "4.0",
+      "target": "4.0",
+      "minVersion": "4.0"
+    }
+  },
+  "targets": {
+    "gt": {
+      "module": {
+        "page": {
+          "pages": [
+            "page/home/index.page"
+          ]
+        },
+        "app-side": {
+          "path": "app-side/index"
+        },
+        "setting": {
+          "path": "setting/index"
+        }
+      },
+      "platforms": [
+        {
+          "st": "r",
+          "dw": 480
+        },
+        {
+          "st": "s",
+          "dw": 390
+        }
+      ]
+    }
+  },
+  "permissions": [
+    "data:os.device.info",
+    "device:os.local_storage",
+    "network.fetch",
+    "app.service"
+  ],
+  "i18n": {
+    "en-US": {
+      "name": "RT Key App"
+    }
+  },
+  "defaultLanguage": "ru-RU",
+  "debug": false
+}

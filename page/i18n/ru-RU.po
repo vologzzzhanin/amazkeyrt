@@ -1,0 +1,24 @@
+
+msgid "devices"
+msgstr "Устройства"
+
+msgid "noDevices"
+msgstr "Добавьте устройства в настройках"
+
+msgid "opening"
+msgstr "Открываю..."
+
+msgid "openedSuccess"
+msgstr "Успешно открыто!"
+
+msgid "openFailed"
+msgstr "Ошибка открытия"
+
+msgid "connectionError"
+msgstr "Ошибка связи"
+
+msgid "loading"
+msgstr "Загрузка устройств..."
+
+msgid "loadError"
+msgstr "Ошибка загрузки"

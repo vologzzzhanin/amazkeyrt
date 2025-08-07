@@ -1,0 +1,14 @@
+msgid "loadDevices"
+msgstr "Load"
+
+msgid "fillToken"
+msgstr "Add Token"
+
+msgid "pasteToken"
+msgstr "Paste token here"
+
+msgid "enterTokenFirst"
+msgstr "Please enter the token first"
+
+msgid "delete"
+msgstr "Delete"

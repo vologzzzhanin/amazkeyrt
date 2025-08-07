@@ -1,0 +1,14 @@
+msgid "loadDevices"
+msgstr "Загрузить"
+
+msgid "fillToken"
+msgstr "Ввести токен"
+
+msgid "pasteToken"
+msgstr "Введите строку с токеном"
+
+msgid "enterTokenFirst"
+msgstr "Сначала введите токен"
+
+msgid "delete"
+msgstr "Удалить"
