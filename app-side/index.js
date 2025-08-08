@@ -46,7 +46,7 @@ async function openDevice(id, res) {
       url: API_URL + `/${id}/open`,
       method: 'POST',
       headers: {
-        'Authorization': API_KEY
+        'Authorization': apiToken
       }
     })
     const result = response.status === 200 ? "OPENED" : "FAILED"
